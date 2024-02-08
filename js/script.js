@@ -44,6 +44,6 @@ document.addEventListener('DOMContentLoaded', () => {
         start: 'top top',
         end: 'bottom bottom',
         animation: animation,
-        scrub: 1
+        scrub: 1,
     })
 });
