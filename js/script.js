@@ -25,6 +25,7 @@ document.addEventListener('DOMContentLoaded', () => {
     workInfoItems.forEach(function (item, index) {
         item.style.zIndex = workInfoItems.length - index;
     });
+    
     gsap.set(".work__photo-item", {
         clipPath: function () {
             return "inset(0px 0px 0px 0px)"
