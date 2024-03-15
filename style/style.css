@@ -62,7 +62,7 @@ body {
     text-align: right;
     font-size: 18px;
     transform: skewX(-20deg);
-    color: var(--pr-color);
+    color: var(--color-1-1);
 }
 
 .title {
